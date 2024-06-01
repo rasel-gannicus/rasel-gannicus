@@ -1,14 +1,15 @@
+![Banner](https://github.com/rasel-gannicus/rasel-gannicus/assets/10151130/8caf1ff4-92b6-49df-bee3-e9e8b65e2398)
 <h1>Hi 👋, I'm Shafiqul Hasan Rasel</h1>
-<h3>A frontend web developer with expertise in React.js, JavaScript, Next Js, HTML, CSS, Tailwind, Bootstrap and Firebase Authentication. I am also familiar with Node.js, Express.js and MongoDB. I have gained valuable experience through my passion for web development and have developed a wide range of skills that allow me to create high-quality, responsive and dynamic web applications. I am always looking for new and challenging projects to work on and I am dedicated to staying up to date with the latest web development technologies and best practices. My goal is to deliver top-notch solutions to my clients, and I take pride in my ability to understand the needs of my clients and deliver projects on time and within budget. You can check out my work on my Github profile and don't hesitate to contact me if you have any questions or ideas for a project.</h3>
+<h4>A frontend web developer comfortable with React.js, Typescript, JavaScript, Next Js, Tailwind Css, Redux, HTML, Vanilla CSS, Daisy Ui, Bootstrap, Firebase Authentication. I am also familiar with Node.js, Express.js, MongoDB, Material Ui, ShadCn, Framer motion and a few more technologies that is helpful for web development. I have gained valuable experience through my passion for web development and have developed a wide range of skills that allow me to create high-quality, responsive and dynamic web applications. I am always looking for new and challenging projects to work on and I am dedicated to staying up to date with the latest web development technologies and best practices. My goal is to deliver top-notch solutions to my clients, and I take pride in my ability to understand the needs of my clients and deliver projects on time and within budget. You can check out my work on my Github profile and don't hesitate to contact me if you have any questions or ideas for a project.</h4>
 
 
-- 🔭 I’m currently working on **Backened**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Bakcened**
+- 🌱 I’m currently learning **Backened**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shafiq-russell.vercel.app/)
 
-- 💬 Ask me about **React, Javascript**
+- 💬 Ask me about **React, Javascript, Redux, Typescript, Tailwind css, Next js**
 
 - 📫 How to reach me **shafiq.russell5@gmail.com**
 
@@ -25,8 +26,10 @@
 
 ## Language and Tools
 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
