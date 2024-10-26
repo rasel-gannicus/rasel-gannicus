@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/1GMWDTh/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+![Banner](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1>Hi 👋, I'm Shafiqul Hasan Rasel</h1>
 <h4>A frontend web developer comfortable with React.js, Typescript, JavaScript, Next Js, Tailwind Css, Redux, HTML, Vanilla CSS, Daisy Ui, Bootstrap, Firebase Authentication. I am also familiar with Node.js, Express.js, MongoDB, Material Ui, ShadCn, Framer motion and a few more technologies that is helpful for web development. I have gained valuable experience through my passion for web development and have developed a wide range of skills that allow me to create high-quality, responsive and dynamic web applications. I am always looking for new and challenging projects to work on and I am dedicated to staying up to date with the latest web development technologies and best practices. My goal is to deliver top-notch solutions to my clients, and I take pride in my ability to understand the needs of my clients and deliver projects on time and within budget. You can check out my work on my Github profile and don't hesitate to contact me if you have any questions or ideas for a project.</h4>
 
@@ -49,6 +49,10 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasel-gannicus&show_icons=true&locale=en&layout=compact" alt="rasel-gannicus" /></p>
 
+
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasel-gannicus&show_icons=true&locale=en" alt="rasel-gannicus" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-gannicus&" alt="rasel-gannicus" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-gannicus&theme=tokyonight" alt="rasel-gannicus" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rasel-gannicus&theme=tokyonight" alt="rasel-gannicus" /></p>
