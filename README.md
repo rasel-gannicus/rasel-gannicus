@@ -2,7 +2,7 @@
 <h1>Hi 👋, I'm Shafiqul Hasan Rasel</h1>
 <h4>A frontend web developer comfortable with React.js, Typescript, JavaScript, Next Js, Tailwind Css, Redux, HTML, Vanilla CSS, ShadCn, Bootstrap, Firebase Authentication. I am also familiar with Node.js, Express.js, MongoDB, Material Ui, Framer motion, React Spring and a few more technologies that is helpful for web development. I have gained valuable experience through my passion for web development and have developed a wide range of skills that allow me to create high-quality, responsive and dynamic web applications. I am always looking for new and challenging projects to work on and I am dedicated to staying up to date with the latest web development technologies and best practices. My goal is to deliver top-notch solutions to my clients, and I take pride in my ability to understand the needs of my clients and deliver projects on time and within budget. You can check out my work on my Github profile and don't hesitate to contact me if you have any questions or ideas for a project.</h4>
 
-<img align="right" alt="coding" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDI3eHV4bzk1amFwOHJsaGRtdWxvMjQ5OGF5eHNlb3Nncnh4d2M4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif">
+<img align="right" alt="coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDI3eHV4bzk1amFwOHJsaGRtdWxvMjQ5OGF5eHNlb3Nncnh4d2M4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif">
 
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shafiq-russell.vercel.app/)
