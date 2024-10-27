@@ -1,4 +1,4 @@
-[![Banner](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://shafiq-russell.vercel.app/)
+[![Banner](https://i.ibb.co.com/cT2NPmn/Frontend-Developer.gif)](https://shafiq-russell.vercel.app/)
 <h1>Hi 👋, I'm Shafiqul Hasan Rasel</h1>
 <h4>A frontend web developer comfortable with React.js, Typescript, JavaScript, Next Js, Tailwind Css, Redux, HTML, Vanilla CSS, ShadCn, Bootstrap, Firebase Authentication. I am also familiar with Node.js, Express.js, MongoDB, Material Ui, Framer motion, React Spring and a few more technologies that is helpful for web development. I have gained valuable experience through my passion for web development and have developed a wide range of skills that allow me to create high-quality, responsive and dynamic web applications. I am always looking for new and challenging projects to work on and I am dedicated to staying up to date with the latest web development technologies and best practices. My goal is to deliver top-notch solutions to my clients, and I take pride in my ability to understand the needs of my clients and deliver projects on time and within budget. You can check out my work on my Github profile and don't hesitate to contact me if you have any questions or ideas for a project.</h4>
 
@@ -53,7 +53,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-gannicus&theme=tokyonight" alt="rasel-gannicus" /></p>
 <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rasel-gannicus&theme=tokyonight" alt="rasel-gannicus" />
-<img align="center" alt="coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamN1ZDN2cTZrbWRtaGNsNG9zeDJjMWxrN3IxdWMyOHUxaXpjcjM5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jRf5fsn8G6YaogAWxn/giphy.gif">
+<!-- <img align="center" alt="coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamN1ZDN2cTZrbWRtaGNsNG9zeDJjMWxrN3IxdWMyOHUxaXpjcjM5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jRf5fsn8G6YaogAWxn/giphy.gif"> -->
 </p> 
 
 
