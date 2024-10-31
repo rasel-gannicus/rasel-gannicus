@@ -54,8 +54,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasel-gannicus&show_icons=true&locale=en" alt="rasel-gannicus" /></p> -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-gannicus&theme=tokyonight" alt="rasel-gannicus" /></p>
-<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rasel-gannicus&theme=tokyonight" alt="rasel-gannicus" />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-gannicus" alt="rasel-gannicus" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rasel-gannicus" alt="rasel-gannicus" />
 <!-- <img align="center" alt="coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamN1ZDN2cTZrbWRtaGNsNG9zeDJjMWxrN3IxdWMyOHUxaXpjcjM5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jRf5fsn8G6YaogAWxn/giphy.gif"> -->
 </p> 
 
