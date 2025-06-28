@@ -10,9 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shafiq-russell.vercel.app/)
 
-- 💬 Ask me about **Typescript, React, NextJs, Redux, Javascript, Tailwind css**
-
-- 📫 How to reach me **shafikrasel5@gmail.com**
+- 📫 How to reach me **shafikrasel5@gmail.com** , **+8801716707031**
 
 
 <h3 align="left">Connect with me:</h3>
